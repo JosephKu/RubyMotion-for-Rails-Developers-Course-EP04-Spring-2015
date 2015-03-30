@@ -1,0 +1,24 @@
+PODS:
+  - FXForms (1.2.12)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core (= 0.5.7)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.5.7)
+    - MMDrawerController/MMDrawerVisualStates (= 0.5.7)
+    - MMDrawerController/Subclass (= 0.5.7)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+
+DEPENDENCIES:
+  - FXForms (~> 1.2)
+  - MMDrawerController (~> 0.5)
+
+SPEC CHECKSUMS:
+  FXForms: ae90610432a0a9cbb71e0180f202d0fff375881f
+  MMDrawerController: c3ab7a318ddc7e2bcd133139c3161af08c6e1197
+
+COCOAPODS: 0.36.0
